@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205235295779",
+    "firebase_url": "https://cookerapp-e7324.firebaseio.com",
+    "project_id": "cookerapp-e7324",
+    "storage_bucket": "cookerapp-e7324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205235295779:android:df0cd980e532cdf4888396",
+        "android_client_info": {
+          "package_name": "pl.wsiz.cookerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205235295779-6fuijs1q57jnbs0pk8u789bcagva9462.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZH1FaYHVFzkdI_pvrHt3MSMOVb7axBrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205235295779-6fuijs1q57jnbs0pk8u789bcagva9462.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
