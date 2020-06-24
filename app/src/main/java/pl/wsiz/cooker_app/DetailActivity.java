@@ -47,10 +47,7 @@ public class DetailActivity extends AppCompatActivity {
             Glide.with(this)
                     .load(mBundle.getString("Image"))
                     .into(foodImage);
-
-
         }
-
     }
 
     public void btnDeleteRecipe(View view) {
@@ -71,12 +68,6 @@ public class DetailActivity extends AppCompatActivity {
 
             }
         });
-
-
-
-
-
-
     }
 
     public void btnUpdateRecipe(View view) {
@@ -88,8 +79,5 @@ public class DetailActivity extends AppCompatActivity {
                 .putExtra("oldimageUrl",imageUrl)
                 .putExtra("key",key)
         );
-
-
-
     }
 }
