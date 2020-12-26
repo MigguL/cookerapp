@@ -1,3 +1,3 @@
-# cookerapp
+## :dart: About the project
 
-Project Application for Programming Mobile Devices
+cookerapp is a digital recipe book for Android devices (created as University assignment for mobile-dev course)
